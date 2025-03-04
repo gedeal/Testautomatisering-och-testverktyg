@@ -8,6 +8,7 @@
 
  -3 Du får ta hjälp av AI för att förklara koncept och lösa fel. Du får inte be AI lösa uppgiften åt dig direkt. Om du gör det, kommer du inte att lära dig grunderna, och inte kunna lösa svårare problem.
 
+--- 
 
 ## 1 Diskutera i grupp
 Ni kan göra den här uppgiften antingen direkt, eller senare i veckan. Om ni gör den senare, passa på att kombinera med code review.
@@ -19,7 +20,8 @@ Ni kan göra den här uppgiften antingen direkt, eller senare i veckan. Om ni g�
 
 
 
-- 1c Koden för webbsidan har råkat blandas. Byt plats på kodraderna så att de står i samma ordning som på bilden. Länk till uppgiften: https://davidsvson.github.io/parsonProblem/#/ND9TA5V911g2oDGBnQou 
+- 1c Koden för webbsidan har råkat blandas. 
+  Byt plats på kodraderna så att de står i samma ordning som på bilden. Länk till uppgiften: https://davidsvson.github.io/parsonProblem/#/ND9TA5V911g2oDGBnQou 
 
 
 

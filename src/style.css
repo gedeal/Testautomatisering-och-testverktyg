@@ -1,0 +1,39 @@
+@page { size: 21cm 29.7cm; margin: 2cm }
+p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }
+
+table {
+font-family: arial, sans-serif;
+border-collapse: collapse;
+width: 100%;
+color: blueviolet;
+border: 3px ;
+
+
+}
+
+td, th {
+border: 2px solid #dddddd;
+text-align: left;
+padding: 8px;
+color: blue;
+}
+
+/*
+tr:nth-child(even) {
+background-color: #dddddd;
+}
+*/
+
+img {
+    height: 10em;
+}
+
+
+.center{
+    border: 3px solid #ceeea2; 
+    padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
