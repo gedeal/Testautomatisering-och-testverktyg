@@ -1,0 +1,51 @@
+@page { size: 21cm 29.7cm; margin: 2cm }
+p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }
+
+table {
+font-family: arial, sans-serif;
+border-collapse: collapse;
+width: 80%;
+color: blueviolet;
+background-color: chartreuse;
+border: 0px ;
+
+
+
+}
+
+td, th {
+border: 2px solid #dddddd;
+text-align: center;
+padding: 8px;
+color: rgb(255, 0, 170);
+}
+
+/*
+tr:nth-child(even) {
+background-color: #dddddd;
+}
+*/
+
+img {
+    height: 10em;
+    align-self: center;
+}
+
+
+center{
+    border: 3px solid #ceeea2; 
+    padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+button{
+    border: #dddddd;
+    color: rgb(216, 228, 228);
+    background-color: rgb(14, 117, 5);
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5ch;
+}
