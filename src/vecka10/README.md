@@ -18,6 +18,9 @@ Ni kan göra den här uppgiften antingen direkt, eller senare i veckan. Om ni g�
 
 - 1b Vilka sorters element finns det på wikipedia-sidan om Thutmose II?
 
+    https://en.wikipedia.org/wiki/Thutmose_II
+
+
 
 
 - 1c Koden för webbsidan har råkat blandas. 
