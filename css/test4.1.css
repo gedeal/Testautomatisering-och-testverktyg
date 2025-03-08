@@ -1,0 +1,75 @@
+
+/* comments */
+
+.divgreen {
+    background-color: rgb(192, 223, 158);
+    width: 100%;
+    border: 2px solid green;
+    padding: 10px;
+    margin: 0px;
+    font-size: large;
+  }
+
+
+.divpink {
+    background-color: rgb(247, 129, 188);
+    width: 95%;
+    border: 2px solid green;
+    padding: 5px;
+    margin: 0px;
+    font-size: large;
+}
+
+.li{
+    font-size: large;
+}
+
+
+.bg_w{
+    background-color: rgb(255, 255, 255);
+}
+
+.bg_b{
+    background-color: rgb(112, 103, 247);
+}
+
+.italic{
+    font-style: italic; 
+    font: bolder; 
+}
+
+.bolder{
+    font-weight: 700;
+    font-size: 20px;
+    color: brown;
+    /*background-color: rgb(212, 235, 82);*/
+
+}
+
+
+.fontlarge{
+    font-size: 20px;
+}
+
+.fontcenter{
+    text-align: center;
+}
+
+.fontright{
+    text-align: right;
+}
+
+.grey{
+    color: grey;
+    font-size: large;
+}
+
+.blue{
+    color: blue;
+    font-size: large;
+}
+
+.underline{
+    text-decoration: underline;
+    font-size: large;
+}
