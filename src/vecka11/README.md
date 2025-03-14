@@ -153,5 +153,3 @@ Scenario:
 Utgå från dina user stories och scenarion i föregående uppgift. Skriv kod med Playwright som testar dem. Ta hjälp av kodexemplet i presentationen.
 
 
-.
-
