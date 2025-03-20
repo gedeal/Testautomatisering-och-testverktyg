@@ -1,0 +1,21 @@
+from playwright.sync_api import Page, expect
+
+def test_name_field(page:Page):
+    page.goto("http://")
+
+    button= page.get_by_role("button").last
+    expect(button).to_be_disabled(timeout=100)
+
+    """User story:
+    [U1] Som en användare, vill jag kunna se hur en daily scrum går till, så att jag kan lära mig göra på rätt sätt
+
+    Acceptanskriterier:
+    [A1.1] Det går att klicka på knappen "somewhere in the middle"
+    [A1.2] Det går att klicka på knappen "Daily standup"
+    [A1.3] Rubriken "Daily standup" ska vara synlig på webbsidan.
+
+    Scenario:
+    1. Klicka på knappen "somewhere in the middle"
+    2. klicka på knappen vars text innehåller "daily standup"
+    3. kontrollera att man ser en rubrik med texten "Daily standup"
+    """
