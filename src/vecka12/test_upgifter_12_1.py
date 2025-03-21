@@ -52,8 +52,8 @@ def test_SkapaTabortWidget(playwright: Playwright) -> None:
 
     page.get_by_role("button", name="Start").click()
 
-    textboxlocator = page.locator('.row time')
-    print("\nPRINT: ", textboxlocator.input_value())
+    # textboxlocator = page.locator('.row time')
+    # print("\nPRINT: ", textboxlocator.input_value())
 
     sleep(2)
 
